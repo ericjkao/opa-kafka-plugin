@@ -3,7 +3,9 @@
 ![](https://github.com/anderseknert/opa-kafka-plugin/workflows/build/badge.svg)
 [![codecov](https://codecov.io/gh/Bisnode/opa-kafka-plugin/branch/master/graph/badge.svg)](https://codecov.io/gh/Bisnode/opa-kafka-plugin)
 
-Open Policy Agent (OPA) plugin for Kafka authorization.
+This plugin lets you use Open Policy Agent to authorize Kafka messages.
+
+For feeding data to OPA using Kafka, see [Enterprise OPA](https://github.com/StyraInc/enterprise-opa) with built-in integration to stream Kafka data.
 
 ### Prerequisites
 
